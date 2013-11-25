@@ -1,0 +1,12 @@
+[Bb]in
+[Dd]ebug*/
+obj/
+*.[oa]
+*.asx
+*.bin
+*.d
+*.map
+*.
+.settings/org.eclipse.ltk.core.refactoring.prefs
+.cproject
+.project
